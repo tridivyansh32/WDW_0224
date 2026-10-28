@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1 align="center"><b>MULTI MEDIA PLAYER</b></h1>
+
+    <h2>Audio Section</h2>
+<audio controls>
+ <source src="purrplecat-long-day-518602.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ </audio>
+ <br>
+ <video control>
+    <soucre src="378577.mp4" controls height="360" width="640">
+
+    </video>
+</body>
+</html>
